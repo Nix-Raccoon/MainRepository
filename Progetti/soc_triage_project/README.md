@@ -22,12 +22,10 @@ Per far funzionare questo script, hai bisogno di:
 ## 🚀 Installazione e Configurazione
 
 1. **Clona la repository:**
-   ```bash
-   git clone [https://github.com/TUO_USERNAME/soc-triage-automation.git](https://github.com/TUO_USERNAME/soc-triage-automation.git)
-   cd soc-triage-automation
+git clone https://github.com/Nix-Raccoon/MainRepository.git
+cd MainRepository/Progetti/soc_triage_project
 
-2. Installa le librerie necessarie:**
-```bash
+3. Installa le librerie necessarie:**
 pip install requests python-dotenv
 
 3. Configura le variabili d'ambiente:
