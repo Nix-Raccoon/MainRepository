@@ -1,5 +1,0 @@
-{"timestamp": "2026-03-11T15:30:00.123+0000", "event_type": "alert", "src_ip": "8.8.8.8", "src_port": 53, "dest_ip": "192.168.1.50", "dest_port": 50123, "alert": {"action": "allowed", "signature": "ET DNS Query to 8.8.8.8", "severity": 3}}
-{"timestamp": "2026-03-11T15:31:12.987+0000", "event_type": "alert", "src_ip": "185.153.196.213", "src_port": 4444, "dest_ip": "192.168.1.10", "dest_port": 443, "alert": {"action": "blocked", "signature": "ET MALWARE Known Malicious IP", "severity": 1}}
-{"timestamp": "2026-03-11T15:32:00.000+0000", "event_type": "stats", "interface": "eth0", "capture": {"kernel_packets": 1000, "ips_blocked": 5}}
-{"timestamp": "2026-03-11T15:32:45.111+0000", "event_type": "alert", "src_ip": "185.153.196.213", "src_port": 4444, "dest_ip": "192.168.1.10", "dest_port": 8080, "alert": {"action": "blocked", "signature": "ET MALWARE Known Malicious IP Retries", "severity": 1}}
-{"timestamp": "2026-03-11T15:33:10", "event_type": "alert", "src_ip": "10.0.0.5", "alert": "Incomplete JSON line ending abruptly...
